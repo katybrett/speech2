@@ -1,0 +1,37 @@
+
+
+img{
+    position: absolute;
+
+    max-height: 50vh;
+
+   
+        left: 870px;
+        top: 300px;
+
+      
+    
+    
+    
+} 
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+audio{
+    display: none;
+}
+
+#one img[src="one.jpg"]
+{position:absolute; TOP:260px; LEFT:180px; WIDTH:530px; HEIGHT:150px}
+
+#two img[src="two.jpg"]
+{position:absolute; TOP:480px; LEFT:90px; WIDTH:600px; HEIGHT:200px}
+
+
+
+
+
+
+
